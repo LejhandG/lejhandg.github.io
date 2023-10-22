@@ -13,7 +13,7 @@ const exp = [
   },
   {
     title: "HTML and CSS",
-    cardImage: "https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg",
+    cardImage: "https://cdn.discordapp.com/attachments/676775305746317313/1165594334767366184/pngegg_4.png?ex=65476b51&is=6534f651&hm=18316245b337d2bfbee89e2e138d58c5db656b9927d85bce4ad1277de23a0a23&",
     place: "SELF LEARNT",
     time: "(2 years)",
     desp: "<li>Decent at frontend using HTML and CSS only</li><li>Can make decent websites using HTML CSS.</li><li>Problem in making responsive websites.</li>",
@@ -27,7 +27,7 @@ const exp = [
   },
   {
     title: "Python",
-    cardImage: "https://cdn.discordapp.com/attachments/676775305746317313/1165565098274861066/pngegg_3.png?ex=65475016&is=6534db16&hm=4fceae69c55a2185530540c752e49197c94abfbdf3fdd1ac70bb968d735218cf&",
+    cardImage: "https://cdn.discordapp.com/attachments/676775305746317313/1165594825945518080/pngegg_5.png?ex=65476bc6&is=6534f6c6&hm=a0371fec08e028b3749ee4feae7fc7c3160704c262f4ea664a89028641b72e0c&",
     place: "SELF LEARNT",
     time: "(6 months)",
     desp: "<li>Can code basic python.</li>",
